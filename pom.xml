@@ -4,8 +4,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.dfggking</groupId>
   <artifactId>dfgg-group</artifactId>
-  <version>1.0.0</version>
-  <name>dfgg-group</name>
+  <version>1</version>
+  <name>dfgg group</name>
   <packaging>pom</packaging>
   
   <modules>
@@ -28,4 +28,8 @@
       </plugin>
     </plugins>
   </build>
+  
+  <properties>
+    
+  </properties>
 </project>

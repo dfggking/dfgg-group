@@ -6,6 +6,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+import org.dfgg.common.pojo.JsonResult;
+import org.dfgg.common.pojo.ResultCode;
+
 /**
  * properties工具类
  * @author jinyingfei

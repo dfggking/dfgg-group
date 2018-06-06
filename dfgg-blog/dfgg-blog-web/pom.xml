@@ -5,13 +5,12 @@
   <parent>
     <groupId>com.dfggking</groupId>
     <artifactId>dfgg-blog</artifactId>
-    <version>1.0.0</version>
+    <version>1</version>
   </parent>
-  <groupId>com.dfgg.blog</groupId>
   <artifactId>dfgg-blog-web</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
-  <name>dfgg-blog-web Maven Webapp</name>
+  <name>dfgg-blog-web</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
